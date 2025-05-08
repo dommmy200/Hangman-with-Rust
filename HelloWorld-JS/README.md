@@ -1,23 +1,14 @@
-# Overview
+# MyPortfolio
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+## Software Description
+The software displays a simple line of "Hello, World to Webpage!" and another "Hello, World to Console!" This simple software use the Javascript language together with HTML and CSS to display on the Webpage, while it uses just the Javascript language to display on the console. When the pointer or mouse hovers above the div block, the div background color changes and revert back otherwise. Viewing the console app through the Chrome DevTool, displays another "Hello, World to Console!" 
 
-{Provide a description of your software}
+## Software Purpose
+This is Hello World program to demonstrate a simple structure of the javascript programming language.
 
-{Describe your purpose for creating this software.}
+## Development Environment
+VS Code is used as the Integrated Development Environment which took advantage of "Go Live" extension to render the HTML. Javascript was used to dynamically render the interaction of HTML and CSS components. Chrome DevTool was used to view the webpage generated console responses.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
-
-# Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+## Useful Websites for this project
+- [How to add a README to your GitHub Profile]([http://url.link.goes.here](https://youtu.be/Yz52vuswhEk?si=UZqyt3Sg0ZttRaAp))
+- [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
