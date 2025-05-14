@@ -13,5 +13,5 @@ VS Code is used as the Integrated Development Environment which took advantage o
 - [Hello World with Javascript](https://youtu.be/epYdPogofdM)
 
 ## Useful Websites for this project
-- [How to add a README to your GitHub Profile]([http://url.link.goes.here](https://youtu.be/Yz52vuswhEk?si=UZqyt3Sg0ZttRaAp))
+- [How to add a README to your GitHub Profile](https://youtu.be/Yz52vuswhEk?si=UZqyt3Sg0ZttRaAp)
 - [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
