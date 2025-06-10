@@ -1,0 +1,40 @@
+{
+    "word_lists": {
+      "four_letter_words": [
+        "Rust",
+        "Code",
+        "Idea",
+        "Lens",
+        "Game",
+        "Word",
+        "Play",
+        "Fire",
+        "Fish",
+        "Book"
+      ],
+      "five_letter_words": [
+        "Apple",
+        "Crane",
+        "House",
+        "Light",
+        "Cloud",
+        "Dream",
+        "River",
+        "Table",
+        "Chair",
+        "Music"
+      ],
+      "six_letter_words": [
+        "Global",
+        "Travel",
+        "Puzzle",
+        "Branch",
+        "Window",
+        "Garden",
+        "Flight",
+        "Friend",
+        "Basket",
+        "Rocket"
+      ]
+    }
+  }
